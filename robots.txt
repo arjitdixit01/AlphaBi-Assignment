@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /sample-*
+Disallow: /blog/sample-*
+Sitemap: https://www.tempo.io/sitemap.xml
+Disallow: /pricing-updates-april-2022
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
